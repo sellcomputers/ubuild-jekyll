@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: We'll buy your hardware redudancies
+  headline: We'll buy your hardware redundancies
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
