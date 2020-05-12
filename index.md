@@ -74,10 +74,10 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: 4-column-footer
   block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
+  image: "/uploads/2018/06/21/forestry-full.svg"
+  col_2: Lorem ipsum dolor sit.
+  col_3: Lorem ipsum dolor sit.
+  col_4: Lorem ipsum dolor sit.
 
 ---
 foo bar
