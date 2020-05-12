@@ -7,9 +7,6 @@ fields:
   label: block
   name: block
   default: footer-2
-- type: file
-  label: Column 1 Image
-  name: image
 - type: textarea
   name: col_2
   label: Column 2 Content
@@ -17,6 +14,9 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- type: file
+  label: Column 1 Image
+  name: image
 - type: textarea
   name: col_3
   label: Column 3 Content
